@@ -4,7 +4,7 @@ Installation:
 
 1. Download SAMP 0.3.7 Server package: http://files.sa-mp.com/samp037_svr_R2-1-1_win32.zip
 2. Download project files and copy & paste them into the folder
-3. Download XAMPP and create local MySQL database or if hosted remotely file the information below:
+3. Download XAMPP and create local MySQL database or if hosted remotely put the info for the MySQL connection in dayz.pwn settings
 
 The .sql files will automatically generate as soon you compile and start the server if the database is successfully connected.
 
