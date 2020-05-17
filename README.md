@@ -14,11 +14,15 @@ The .sql files will automatically generate as soon you compile and start the ser
 Server Settings (all in dayz.pwn under #define SETTINGNAME):
 
 #define mysql_host "" // IP of remote host or if local: 127.0.0.1
+
 #define mysql_user  "" // Username of MySQL. If local type root.
+
 #define mysql_password "" 
+
 #define mysql_database  "" // Name of the database
 
 #define MAX_ZOMBIES (originally set to 400) make sure this setting is set to amount of zombies you need. In server.cfg make sure maxnpc is set to max zombies.
+
 #define NAME - Server same
 
 Everything else is self-explanatory. 
