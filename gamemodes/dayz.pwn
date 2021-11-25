@@ -1,12 +1,12 @@
 /*
 	Created for Pro Gaming Arena Gaming Community
 
-	Created by: Kitten aka AldenJ
+	Created by: Kitten aka AldenJ aka AaronN
 	Created date: 1/1/12
 	Created time: 3:41 PM
 	Name: GTA SA: DayZ Version
 	Saving: MySQL
-	Version: 9.0
+	Version: 15.0
 	Website: www.pgagaming.net
 */
 
